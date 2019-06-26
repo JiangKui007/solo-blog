@@ -10,6 +10,8 @@ JiangKui 的个人博客
 
 ### 最新
 
+* [docker 内执行脚本 运行命令](http://www.yunzhongmoke.com/articles/2019/06/26/1561551250964.html)
+* [Tensorflow Serving Docker compose 部署服务细节(Ubuntu&MacOS)](http://www.yunzhongmoke.com/articles/2019/06/26/1561551101511.html)
 * [TF_Estimators学习笔记 - 介绍](http://www.yunzhongmoke.com/articles/2019/06/13/1560437453784.html)
 * [ubuntu rsync 参数列表](http://www.yunzhongmoke.com/articles/2019/06/13/1560437310813.html)
 * [mac OS X 设置环境变量相关](http://www.yunzhongmoke.com/articles/2019/06/13/1560437245919.html)
