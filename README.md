@@ -10,6 +10,7 @@ JiangKui 的个人博客
 
 ### 最新
 
+* [Sublime Text 多行编辑快捷键](http://www.yunzhongmoke.com/articles/2019/08/15/1565854004955.html)
 * [对dataframe中的日期数据排序函数](http://www.yunzhongmoke.com/articles/2019/08/14/1565771623709.html)
 * [pandas 绘制双y轴图](http://www.yunzhongmoke.com/articles/2019/08/13/1565682439720.html)
 * [Ubuntu18.04设置开机启动服务](http://www.yunzhongmoke.com/articles/2019/07/30/1564460357102.html)
@@ -29,6 +30,9 @@ JiangKui 的个人博客
 * [MAC禁用Adobe Creative Cloud自启状态栏](http://www.yunzhongmoke.com/articles/2019/06/13/1560435251908.html)
 * [清理Mac OSX中安装的nvidia CUDA driver](http://www.yunzhongmoke.com/articles/2019/06/13/1560435197588.html)
 * [我在 GitHub 上的开源项目](http://www.yunzhongmoke.com/my-github-repos)
+
+### 热门
+
 * [世界，你好！](http://www.yunzhongmoke.com/hello-solo)
 
 
