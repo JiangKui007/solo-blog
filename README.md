@@ -10,6 +10,8 @@ JiangKui 的个人博客
 
 ### 最新
 
+* [linux 从空分区中划一部分空间给swap](http://www.yunzhongmoke.com/articles/2019/08/16/1565936952941.html)
+* [linux 开机启动项](http://www.yunzhongmoke.com/articles/2019/08/16/1565936379412.html)
 * [Sublime Text 多行编辑快捷键](http://www.yunzhongmoke.com/articles/2019/08/15/1565854004955.html)
 * [对dataframe中的日期数据排序函数](http://www.yunzhongmoke.com/articles/2019/08/14/1565771623709.html)
 * [pandas 绘制双y轴图](http://www.yunzhongmoke.com/articles/2019/08/13/1565682439720.html)
@@ -28,11 +30,11 @@ JiangKui 的个人博客
 * [pandas DataFrame数据统计方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436835863.html)
 * [ubuntu16.04 安装cuda9.0+cudnn7.0.5+tensorflow+nvidia-docker配置GPU服务器](http://www.yunzhongmoke.com/articles/2019/06/13/1560436747075.html)
 * [MAC禁用Adobe Creative Cloud自启状态栏](http://www.yunzhongmoke.com/articles/2019/06/13/1560435251908.html)
-* [清理Mac OSX中安装的nvidia CUDA driver](http://www.yunzhongmoke.com/articles/2019/06/13/1560435197588.html)
-* [我在 GitHub 上的开源项目](http://www.yunzhongmoke.com/my-github-repos)
 
 ### 热门
 
+* [清理Mac OSX中安装的nvidia CUDA driver](http://www.yunzhongmoke.com/articles/2019/06/13/1560435197588.html)
+* [我在 GitHub 上的开源项目](http://www.yunzhongmoke.com/my-github-repos)
 * [世界，你好！](http://www.yunzhongmoke.com/hello-solo)
 
 
