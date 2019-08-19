@@ -10,6 +10,8 @@ JiangKui 的个人博客
 
 ### 最新
 
+* [配置nvidia-docker2的daemon.json文件](http://www.yunzhongmoke.com/articles/2019/08/19/1566204178750.html)
+* [ubuntu安装docker及配置nvidia-docker2](http://www.yunzhongmoke.com/articles/2019/08/19/1566203803236.html)
 * [linux 从空分区中划一部分空间给swap](http://www.yunzhongmoke.com/articles/2019/08/16/1565936952941.html)
 * [linux 开机启动项](http://www.yunzhongmoke.com/articles/2019/08/16/1565936379412.html)
 * [Sublime Text 多行编辑快捷键](http://www.yunzhongmoke.com/articles/2019/08/15/1565854004955.html)
@@ -28,13 +30,13 @@ JiangKui 的个人博客
 * [docker 安装mysql5.7](http://www.yunzhongmoke.com/articles/2019/06/13/1560436912278.html)
 * [nvidia-smi使用方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436865825.html)
 * [pandas DataFrame数据统计方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436835863.html)
-* [ubuntu16.04 安装cuda9.0+cudnn7.0.5+tensorflow+nvidia-docker配置GPU服务器](http://www.yunzhongmoke.com/articles/2019/06/13/1560436747075.html)
-* [MAC禁用Adobe Creative Cloud自启状态栏](http://www.yunzhongmoke.com/articles/2019/06/13/1560435251908.html)
 
 ### 热门
 
+* [ubuntu16.04 安装cuda9.0+cudnn7.0.5+tensorflow+nvidia-docker配置GPU服务器](http://www.yunzhongmoke.com/articles/2019/06/13/1560436747075.html)
 * [清理Mac OSX中安装的nvidia CUDA driver](http://www.yunzhongmoke.com/articles/2019/06/13/1560435197588.html)
 * [我在 GitHub 上的开源项目](http://www.yunzhongmoke.com/my-github-repos)
+* [MAC禁用Adobe Creative Cloud自启状态栏](http://www.yunzhongmoke.com/articles/2019/06/13/1560435251908.html)
 * [世界，你好！](http://www.yunzhongmoke.com/hello-solo)
 
 
