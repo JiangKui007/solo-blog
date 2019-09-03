@@ -10,6 +10,9 @@ JiangKui 的个人博客
 
 ### 最新
 
+* [mac 设置定时关闭声音](http://www.yunzhongmoke.com/articles/2019/09/03/1567478899990.html)
+* [Mac 开启 crontab 定时任务调试](http://www.yunzhongmoke.com/articles/2019/09/03/1567478154624.html)
+* [Mac OS X: 音量控制等](http://www.yunzhongmoke.com/articles/2019/09/03/1567477995604.html)
 * [配置nvidia-docker2的daemon.json文件](http://www.yunzhongmoke.com/articles/2019/08/19/1566204178750.html)
 * [ubuntu安装docker及配置nvidia-docker2](http://www.yunzhongmoke.com/articles/2019/08/19/1566203803236.html)
 * [linux 从空分区中划一部分空间给swap](http://www.yunzhongmoke.com/articles/2019/08/16/1565936952941.html)
@@ -27,16 +30,16 @@ JiangKui 的个人博客
 * [ubuntu16.04利用samba共享文件夹](http://www.yunzhongmoke.com/articles/2019/06/13/1560437087491.html)
 * [Python——assert断言](http://www.yunzhongmoke.com/articles/2019/06/13/1560437003095.html)
 * [Docker容器时间与主机时间不一致的问题](http://www.yunzhongmoke.com/articles/2019/06/13/1560436975488.html)
-* [docker 安装mysql5.7](http://www.yunzhongmoke.com/articles/2019/06/13/1560436912278.html)
-* [nvidia-smi使用方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436865825.html)
-* [pandas DataFrame数据统计方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436835863.html)
 
 ### 热门
 
 * [ubuntu16.04 安装cuda9.0+cudnn7.0.5+tensorflow+nvidia-docker配置GPU服务器](http://www.yunzhongmoke.com/articles/2019/06/13/1560436747075.html)
+* [nvidia-smi使用方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436865825.html)
+* [docker 安装mysql5.7](http://www.yunzhongmoke.com/articles/2019/06/13/1560436912278.html)
 * [我在 GitHub 上的开源项目](http://www.yunzhongmoke.com/my-github-repos)
 * [清理Mac OSX中安装的nvidia CUDA driver](http://www.yunzhongmoke.com/articles/2019/06/13/1560435197588.html)
 * [MAC禁用Adobe Creative Cloud自启状态栏](http://www.yunzhongmoke.com/articles/2019/06/13/1560435251908.html)
+* [pandas DataFrame数据统计方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436835863.html)
 * [世界，你好！](http://www.yunzhongmoke.com/hello-solo)
 
 
