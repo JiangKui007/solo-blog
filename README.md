@@ -10,15 +10,15 @@ JiangKui 的个人博客
 
 ### 最新
 
-* [mac 设置定时关闭声音](http://www.yunzhongmoke.com/articles/2019/09/03/1567478899990.html)
+* [Mac定时关闭声音](http://www.yunzhongmoke.com/articles/2019/09/03/1567478899990.html)
 * [Mac 开启 crontab 定时任务调试](http://www.yunzhongmoke.com/articles/2019/09/03/1567478154624.html)
-* [Mac OS X: 音量控制等](http://www.yunzhongmoke.com/articles/2019/09/03/1567477995604.html)
+* [Mac OS X: 音量控制命令](http://www.yunzhongmoke.com/articles/2019/09/03/1567477995604.html)
 * [配置nvidia-docker2的daemon.json文件](http://www.yunzhongmoke.com/articles/2019/08/19/1566204178750.html)
 * [ubuntu安装docker及配置nvidia-docker2](http://www.yunzhongmoke.com/articles/2019/08/19/1566203803236.html)
 * [linux 从空分区中划一部分空间给swap](http://www.yunzhongmoke.com/articles/2019/08/16/1565936952941.html)
-* [linux 开机启动项](http://www.yunzhongmoke.com/articles/2019/08/16/1565936379412.html)
+* [linux 开机启动](http://www.yunzhongmoke.com/articles/2019/08/16/1565936379412.html)
 * [Sublime Text 多行编辑快捷键](http://www.yunzhongmoke.com/articles/2019/08/15/1565854004955.html)
-* [对dataframe中的日期数据排序函数](http://www.yunzhongmoke.com/articles/2019/08/14/1565771623709.html)
+* [dataframe中的日期数据排序函数](http://www.yunzhongmoke.com/articles/2019/08/14/1565771623709.html)
 * [pandas 绘制双y轴图](http://www.yunzhongmoke.com/articles/2019/08/13/1565682439720.html)
 * [Ubuntu18.04设置开机启动服务](http://www.yunzhongmoke.com/articles/2019/07/30/1564460357102.html)
 * [Docker配置非root用户执行客户端命令](http://www.yunzhongmoke.com/articles/2019/07/30/1564460200137.html)
