@@ -10,6 +10,7 @@ JiangKui 的个人博客
 
 ### 最新
 
+* [江魁专利](http://www.yunzhongmoke.com/articles/2019/09/14/1568474797128.html)
 * [Mac定时关闭声音](http://www.yunzhongmoke.com/articles/2019/09/03/1567478899990.html)
 * [Mac 开启 crontab 定时任务调试](http://www.yunzhongmoke.com/articles/2019/09/03/1567478154624.html)
 * [Mac OS X: 音量控制命令](http://www.yunzhongmoke.com/articles/2019/09/03/1567477995604.html)
@@ -29,13 +30,13 @@ JiangKui 的个人博客
 * [mac OS X 设置环境变量相关](http://www.yunzhongmoke.com/articles/2019/06/13/1560437245919.html)
 * [ubuntu16.04利用samba共享文件夹](http://www.yunzhongmoke.com/articles/2019/06/13/1560437087491.html)
 * [Python——assert断言](http://www.yunzhongmoke.com/articles/2019/06/13/1560437003095.html)
-* [Docker容器时间与主机时间不一致的问题](http://www.yunzhongmoke.com/articles/2019/06/13/1560436975488.html)
 
 ### 热门
 
 * [ubuntu16.04 安装cuda9.0+cudnn7.0.5+tensorflow+nvidia-docker配置GPU服务器](http://www.yunzhongmoke.com/articles/2019/06/13/1560436747075.html)
 * [我在 GitHub 上的开源项目](http://www.yunzhongmoke.com/my-github-repos)
 * [nvidia-smi使用方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436865825.html)
+* [Docker容器时间与主机时间不一致的问题](http://www.yunzhongmoke.com/articles/2019/06/13/1560436975488.html)
 * [docker 安装mysql5.7](http://www.yunzhongmoke.com/articles/2019/06/13/1560436912278.html)
 * [清理Mac OSX中安装的nvidia CUDA driver](http://www.yunzhongmoke.com/articles/2019/06/13/1560435197588.html)
 * [MAC禁用Adobe Creative Cloud自启状态栏](http://www.yunzhongmoke.com/articles/2019/06/13/1560435251908.html)
