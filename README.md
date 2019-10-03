@@ -35,8 +35,8 @@ JiangKui 的个人博客
 
 * [我在 GitHub 上的开源项目](http://www.yunzhongmoke.com/my-github-repos)
 * [ubuntu16.04 安装cuda9.0+cudnn7.0.5+tensorflow+nvidia-docker配置GPU服务器](http://www.yunzhongmoke.com/articles/2019/06/13/1560436747075.html)
-* [nvidia-smi使用方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436865825.html)
 * [Docker容器时间与主机时间不一致的问题](http://www.yunzhongmoke.com/articles/2019/06/13/1560436975488.html)
+* [nvidia-smi使用方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436865825.html)
 * [MAC禁用Adobe Creative Cloud自启状态栏](http://www.yunzhongmoke.com/articles/2019/06/13/1560435251908.html)
 * [清理Mac OSX中安装的nvidia CUDA driver](http://www.yunzhongmoke.com/articles/2019/06/13/1560435197588.html)
 * [docker 安装mysql5.7](http://www.yunzhongmoke.com/articles/2019/06/13/1560436912278.html)
