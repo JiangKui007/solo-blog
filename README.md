@@ -40,8 +40,8 @@ JiangKui 的个人博客
 * [MAC禁用Adobe Creative Cloud自启状态栏](http://www.yunzhongmoke.com/articles/2019/06/13/1560435251908.html)
 * [清理Mac OSX中安装的nvidia CUDA driver](http://www.yunzhongmoke.com/articles/2019/06/13/1560435197588.html)
 * [docker 安装mysql5.7](http://www.yunzhongmoke.com/articles/2019/06/13/1560436912278.html)
-* [世界，你好！](http://www.yunzhongmoke.com/hello-solo)
 * [pandas DataFrame数据统计方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436835863.html)
+* [世界，你好！](http://www.yunzhongmoke.com/hello-solo)
 
 
 
