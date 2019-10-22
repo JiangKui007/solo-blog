@@ -10,6 +10,7 @@ JiangKui 的个人博客
 
 ### 最新
 
+* [python log 配置](http://www.yunzhongmoke.com/articles/2019/10/22/1571714493777.html)
 * [江魁专利](http://www.yunzhongmoke.com/articles/2019/09/14/1568474797128.html)
 * [Mac定时关闭声音](http://www.yunzhongmoke.com/articles/2019/09/03/1567478899990.html)
 * [Mac 开启 crontab 定时任务调试](http://www.yunzhongmoke.com/articles/2019/09/03/1567478154624.html)
@@ -29,7 +30,6 @@ JiangKui 的个人博客
 * [ubuntu rsync 参数列表](http://www.yunzhongmoke.com/articles/2019/06/13/1560437310813.html)
 * [mac OS X 设置环境变量相关](http://www.yunzhongmoke.com/articles/2019/06/13/1560437245919.html)
 * [ubuntu16.04利用samba共享文件夹](http://www.yunzhongmoke.com/articles/2019/06/13/1560437087491.html)
-* [Python——assert断言](http://www.yunzhongmoke.com/articles/2019/06/13/1560437003095.html)
 
 ### 热门
 
@@ -41,6 +41,7 @@ JiangKui 的个人博客
 * [清理Mac OSX中安装的nvidia CUDA driver](http://www.yunzhongmoke.com/articles/2019/06/13/1560435197588.html)
 * [docker 安装mysql5.7](http://www.yunzhongmoke.com/articles/2019/06/13/1560436912278.html)
 * [pandas DataFrame数据统计方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436835863.html)
+* [Python——assert断言](http://www.yunzhongmoke.com/articles/2019/06/13/1560437003095.html)
 * [世界，你好！](http://www.yunzhongmoke.com/hello-solo)
 
 
