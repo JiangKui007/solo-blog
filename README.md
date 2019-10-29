@@ -10,6 +10,8 @@ JiangKui 的个人博客
 
 ### 最新
 
+* [sklearn的十种分类器](http://www.yunzhongmoke.com/articles/2019/10/29/1572336885172.html)
+* [git bash国内镜像](http://www.yunzhongmoke.com/articles/2019/10/29/1572336528553.html)
 * [python log 配置](http://www.yunzhongmoke.com/articles/2019/10/22/1571714493777.html)
 * [江魁专利](http://www.yunzhongmoke.com/articles/2019/09/14/1568474797128.html)
 * [Mac定时关闭声音](http://www.yunzhongmoke.com/articles/2019/09/03/1567478899990.html)
@@ -28,8 +30,6 @@ JiangKui 的个人博客
 * [Tensorflow Serving Docker compose 部署服务细节(Ubuntu&MacOS)](http://www.yunzhongmoke.com/articles/2019/06/26/1561551101511.html)
 * [TF_Estimators学习笔记 - 介绍](http://www.yunzhongmoke.com/articles/2019/06/13/1560437453784.html)
 * [ubuntu rsync 参数列表](http://www.yunzhongmoke.com/articles/2019/06/13/1560437310813.html)
-* [mac OS X 设置环境变量相关](http://www.yunzhongmoke.com/articles/2019/06/13/1560437245919.html)
-* [ubuntu16.04利用samba共享文件夹](http://www.yunzhongmoke.com/articles/2019/06/13/1560437087491.html)
 
 ### 热门
 
@@ -38,9 +38,11 @@ JiangKui 的个人博客
 * [MAC禁用Adobe Creative Cloud自启状态栏](http://www.yunzhongmoke.com/articles/2019/06/13/1560435251908.html)
 * [nvidia-smi使用方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436865825.html)
 * [Docker容器时间与主机时间不一致的问题](http://www.yunzhongmoke.com/articles/2019/06/13/1560436975488.html)
+* [ubuntu16.04利用samba共享文件夹](http://www.yunzhongmoke.com/articles/2019/06/13/1560437087491.html)
 * [清理Mac OSX中安装的nvidia CUDA driver](http://www.yunzhongmoke.com/articles/2019/06/13/1560435197588.html)
 * [pandas DataFrame数据统计方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436835863.html)
 * [docker 安装mysql5.7](http://www.yunzhongmoke.com/articles/2019/06/13/1560436912278.html)
+* [mac OS X 设置环境变量相关](http://www.yunzhongmoke.com/articles/2019/06/13/1560437245919.html)
 * [Python——assert断言](http://www.yunzhongmoke.com/articles/2019/06/13/1560437003095.html)
 * [世界，你好！](http://www.yunzhongmoke.com/hello-solo)
 
