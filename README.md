@@ -10,6 +10,7 @@ JiangKui 的个人博客
 
 ### 最新
 
+* [云服务器ix.io恶意挖矿漏洞修复](http://www.yunzhongmoke.com/articles/2019/11/21/1574302653004.html)
 * [sklearn的十种分类器](http://www.yunzhongmoke.com/articles/2019/10/29/1572336885172.html)
 * [git bash国内镜像](http://www.yunzhongmoke.com/articles/2019/10/29/1572336528553.html)
 * [python log 配置](http://www.yunzhongmoke.com/articles/2019/10/22/1571714493777.html)
@@ -29,7 +30,6 @@ JiangKui 的个人博客
 * [docker 内执行脚本 运行命令](http://www.yunzhongmoke.com/articles/2019/06/26/1561551250964.html)
 * [Tensorflow Serving Docker compose 部署服务细节(Ubuntu&MacOS)](http://www.yunzhongmoke.com/articles/2019/06/26/1561551101511.html)
 * [TF_Estimators学习笔记 - 介绍](http://www.yunzhongmoke.com/articles/2019/06/13/1560437453784.html)
-* [ubuntu rsync 参数列表](http://www.yunzhongmoke.com/articles/2019/06/13/1560437310813.html)
 
 ### 热门
 
@@ -41,6 +41,7 @@ JiangKui 的个人博客
 * [pandas DataFrame数据统计方法](http://www.yunzhongmoke.com/articles/2019/06/13/1560436835863.html)
 * [清理Mac OSX中安装的nvidia CUDA driver](http://www.yunzhongmoke.com/articles/2019/06/13/1560435197588.html)
 * [ubuntu16.04利用samba共享文件夹](http://www.yunzhongmoke.com/articles/2019/06/13/1560437087491.html)
+* [ubuntu rsync 参数列表](http://www.yunzhongmoke.com/articles/2019/06/13/1560437310813.html)
 * [docker 安装mysql5.7](http://www.yunzhongmoke.com/articles/2019/06/13/1560436912278.html)
 * [mac OS X 设置环境变量相关](http://www.yunzhongmoke.com/articles/2019/06/13/1560437245919.html)
 * [Python——assert断言](http://www.yunzhongmoke.com/articles/2019/06/13/1560437003095.html)
